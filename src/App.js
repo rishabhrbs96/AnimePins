@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Initial code for AnimePins.com
+          Initial code for rishabh dev branch AnimePins.com
         </p>
       </header>
     </div>
